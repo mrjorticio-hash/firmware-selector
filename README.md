@@ -68,3 +68,4 @@ If two matches overlap, the longest match will be assigned the matching files. I
 ### TODO
 
 * add image search box
+<<<<<>>>>>
